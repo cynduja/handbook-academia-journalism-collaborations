@@ -1,4 +1,4 @@
-#Handbook for academia-research-journalism collaborations
+# Handbook for academia-research-journalism collaborations
 
 **SRCCON 2018**
 
